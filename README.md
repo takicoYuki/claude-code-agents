@@ -37,7 +37,3 @@ Claude は動画を直接見られないので、`frame-check` スキルで ffmp
 
 各フォルダに移動して `claude` を起動し、`/agents` で担当が表示されることを確認してから依頼します。
 `side-business-research` は `run_until_1400.ps1` で、`claude -p`（非対話モード）を使ったサイクルを時間いっぱい繰り返せます。
-
-## 開発について
-
-このリポジトリは AI コーディングアシスタントの Claude（Anthropic）を使って作成しています。
