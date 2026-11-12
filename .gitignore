@@ -1,0 +1,5 @@
+video-pipeline/work/*/
+side-business-research/cycles/
+side-business-research/report.md
+*_frames/
+__pycache__/
